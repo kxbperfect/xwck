@@ -3,7 +3,7 @@
   searchable: 1,
   filterable: 1,
   quickSearch: 1,
-  title: 'https://hsck123.com',
+  title: 'http://1760ck.cc/',
   lang: 'hipy'
 })
 """
@@ -64,7 +64,7 @@ class Spider(Spider):
                     
         except Exception as e:
             print(f"获取动态主机失败: {e}")
-            return "https://hsck123.com"
+            return "http://1760ck.cc/"
 
     def preprocessClasses(self):
         """预处理分类数据"""

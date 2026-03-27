@@ -447,7 +447,7 @@ class Spider(Spider):
     }
     header = {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-        "Referer": "http://1504ck.cc/"
+        "Referer": "http://69ck.net/"
     }
 
     def localProxy(self, param):

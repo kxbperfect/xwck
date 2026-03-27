@@ -3,7 +3,7 @@
   searchable: 1,
   filterable: 1,
   quickSearch: 1,
-  title: 'http://1504ck.cc/',
+  title: 'https://hsck123.com',
   lang: 'hipy'
 })
 """
@@ -64,7 +64,7 @@ class Spider(Spider):
                     
         except Exception as e:
             print(f"获取动态主机失败: {e}")
-            return "http://1504ck.cc/"
+            return "https://hsck123.com"
 
     def preprocessClasses(self):
         """预处理分类数据"""
@@ -447,7 +447,7 @@ class Spider(Spider):
     }
     header = {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-        "Referer": "http://69ck.net/"
+        "Referer": "https://hsck123.com"
     }
 
     def localProxy(self, param):

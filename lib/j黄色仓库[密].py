@@ -1,13 +1,3 @@
-"""
-@header({
-  searchable: 1,
-  filterable: 1,
-  quickSearch: 1,
-  title: 'http://6590ck.cc/',
-  lang: 'hipy'
-})
-"""
-
 import re
 import sys
 import urllib.parse
